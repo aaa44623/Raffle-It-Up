@@ -1,5 +1,5 @@
 # Raffle-It-Up
-<p1> This Mobile app was pitched in a Shark-Tank like competetion 
+<p1> This Mobile app was pitched in a Shark-Tank like competition 
   Bull Ring at California State University Northridge. 
  <p1>
    
